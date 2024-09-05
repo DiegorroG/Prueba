@@ -1,1 +1,1 @@
-//inicio archivo php
+#inicio archivo php
